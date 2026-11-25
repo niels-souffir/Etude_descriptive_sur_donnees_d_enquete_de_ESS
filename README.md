@@ -59,6 +59,16 @@ Les consignes détaillées du projet et les modalités d'accès aux données son
 - Niels Souffir
 - Evan Begriche
 
+## Structure du projet
+
+```text
+
+├── code_projet.R          # Code R de l'analyse statistique descriptive
+├── description_projet.pdf # Énoncé et consignes du projet
+├── rapport_enquête.pdf    # Rapport d'analyse et présentation des résultats
+└── README.md              # Documentation du projet
+```
+
 ## Contexte académique
 
 - **Établissement :** ENSAE Paris
