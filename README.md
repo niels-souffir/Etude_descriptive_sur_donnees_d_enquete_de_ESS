@@ -49,15 +49,6 @@ Pour reproduire l'analyse :
 
 Les résultats de l'étude sont présentés dans un rapport comprenant la problématique, la méthodologie statistique, les représentations graphiques et l'interprétation des résultats.
 
-## Compétences techniques
-
-- Programmation en R
-- Statistique descriptive
-- Nettoyage et manipulation de données
-- Analyse de données d'enquête
-- Visualisation de données
-- Interprétation statistique
-- Rédaction scientifique
 
 ## Documentation
 
